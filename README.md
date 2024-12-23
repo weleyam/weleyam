@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @weleyam
-- 👀 I’m interested in java programming, automation test
+- 👀 I’m interested in java programming, automation test, laravel web/api development 
 - 🌱 I’m currently learning automation test
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me weleyam@gmail.com
